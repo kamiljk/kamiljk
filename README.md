@@ -1,28 +1,49 @@
-### Hi there 👋🏼
+## Hi 😎
+---
+### I'm Kamil (he/him). I'm restarting my career after full-time parenting for the last 5 years. I was diagnosed with ADHD in 2022. I recently obtained project management and data analytics certificates from Google, and I'm diving deeper into both areas!
+---
+### 💪🏼  I’m currently working on ...
 
-I'm Kamil. Data daddy.
-<!--
-**kamiljk/kamiljk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-💪🏼  I’m currently working on ...
-
-    ⚡️  Restarting my career after full-time parenting 
+    ⚡️  Restarting my career 
 
     ⚡️  Building a portfolio of projects and a website to host it
-
+    
     ⚡️  Volunteering with Neurodiversity In Business, a UK-based org whose mission is to enable more neuroinclusive workplaces (https://neurodiversityinbusiness.org)
 
+    ⚡️  Making dinner
 
+### 🌱  I’m currently learning ...
 
+    ⚡️  Data Analytics
+    ⚡️  Data Engineering
+    ⚡️  Web Development
+    ⚡️  R
+    ⚡️  Salesforce (Admin certification path)
 
+### 👯  I’m looking to collaborate on ...
 
-- 🌱 I’m currently learning ...
-    - 
+    ⚡️  Civic data projects
+    ⚡️  Gun violence data
+    ⚡️  Mental health data
+    ⚡️  Political data
+    ⚡️  Stock market data
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🤔  I’m looking for help with ...
+
+    ⚡️  Data import/export
+    ⚡️  Large data sets
+    ⚡️  Data manipulation, aggregation
+    ⚡️  Data manipulation, aggregation
+    
+
+### 💬  Ask me about ...
+    ⚡️  Jobseeker resources
+    ⚡️  ADHD, getting diagnosed as an adult 😬
+    ⚡️  Dogs!!! (We have a St. Bernard and a Corgi)
+    ⚡️  Stock market trading psychology
+    ⚡️  Cooking family meals
+
+### 📫  How to reach me: ...
+    ⚡️  https://twitter.com/kamiljk
+    ⚡️  https://linkedin.com/in/kamiljk
+    ⚡️  https://trailblazer.me/id/kamiljk
