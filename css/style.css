@@ -1,0 +1,12 @@
+body {
+    background: #212121;
+    color: #f5f5f5;
+    font-size: 2em;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navigation_bar {
+    display:flex;
+  justify-content: space-evenly;
+    background: #434343
+}
