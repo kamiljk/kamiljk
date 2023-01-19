@@ -1,17 +1,17 @@
 ### Hi there 👋🏼
 
-I'm Kamil. Data
+I'm Kamil. Data daddy.
 <!--
 **kamiljk/kamiljk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 💪🏼 I’m currently working on ...
+💪🏼  I’m currently working on ...
 
-        ⚡️  Restarting my career after full-time parenting 
+    ⚡️  Restarting my career after full-time parenting 
 
-        ⚡️  Building a portfolio of projects and a website to host it
+    ⚡️  Building a portfolio of projects and a website to host it
 
-        ⚡️  Volunteering with Neurodiversity In Business, a UK-based org whose mission is to enable more neuroinclusive workplaces (https://neurodiversityinbusiness.org)
+    ⚡️  Volunteering with Neurodiversity In Business, a UK-based org whose mission is to enable more neuroinclusive workplaces (https://neurodiversityinbusiness.org)
 
 
 
