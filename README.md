@@ -33,7 +33,6 @@
     ⚡️  Data import/export
     ⚡️  Large data sets
     ⚡️  Data manipulation, aggregation
-    ⚡️  Data manipulation, aggregation
     
 
 ### 💬  Ask me about ...
