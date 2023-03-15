@@ -1,8 +1,8 @@
 const images = [
-    "/sk86/img/bg/sk86_bg_1.png",
-    "/sk86/img/bg/sk86_bg_2.png",
-    "/sk86/img/bg/sk86_bg_3.png",
-    "/sk86/img/bg/sk86_bg_4.png"
+    "/sk86_bg_1.png",
+    "/sk86_bg_2.png",
+    "/sk86_bg_3.png",
+    "/sk86_bg_4.png"
 ];
 
 const randomIndex = Math.floor(Math.random() * images.length);
