@@ -27,7 +27,7 @@
   <body>
     <div class="container">
       <form
-        class="row g-3"
+        class="row g-3 m-5"
         action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8"
         method="POST"
       >
@@ -45,6 +45,19 @@
         <!--  <input type="hidden" name="debugEmail"                                  -->
         <!--  value="kamil.j.krawczyk@gmail.com">                                     -->
         <!--  ----------------------------------------------------------------------  -->
+        
+        <div class="">
+        <label class="form-label" for="entity">I am expressing interest as a...</label>
+
+<select class="form-control" id="entity">
+  <option value="Corporate Member">Corporate Member</option>
+  <option value="Corporate Representative">Corporate Representative</option>
+  <option value="Community Partner">Community Partner</option>
+  <option value="Community Representative">Community Representative</option>
+  <option value="Individual Member">Individual Member</option>
+  <option value="Volunteer">Volunteer</option>  
+</select>
+</div>
         <div class="col">
           <label class="form-label" for="first_name">First Name</label
           ><input
