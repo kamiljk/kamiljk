@@ -1,6 +1,8 @@
 ## Hi 😎
 ---
-### I'm Kamil (he/him). I'm restarting my career after full-time parenting for the last 5 years. I was diagnosed with ADHD in 2022. I recently obtained project management and data analytics certificates from Google, and I'm diving deeper into both areas!
+### I'm Kamil (he/him). I'm restarting my career after full-time parenting for the last 5 years. I was diagnosed with ADHD in 2022. I'm interested in Salesforce, data analytics, and improving business processes.
+
+
 ---
 ### 💪🏼  I’m currently working on ...
 
@@ -8,7 +10,7 @@
 
     ⚡️  Building a portfolio of projects and a website to host it
     
-    ⚡️  Volunteering with Neurodiversity In Business, a UK-based org whose mission is to enable more neuroinclusive workplaces (https://neurodiversityinbusiness.org)
+    ⚡️  Volunteering with Neurodiversity In Business (https://neurodiversityinbusiness.org)
 
     ⚡️  Making dinner
 
