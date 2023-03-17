@@ -1,0 +1,14 @@
+name: "Hi I'm Kamil, this is my website - kamiljk.com"
+navbar:
+  title: "Kamil JK"
+left:
+  - text: "Home"
+href: index.html
+right: 
+  - icon: fa-envelope fa-lg
+href: mailto:<kamil.j.krawczyk@gmail.com    >
+  - icon: fa-github fa-lg
+href: http://github.com/kamiljk/
+  output:
+  html_document:
+  theme: darkly
