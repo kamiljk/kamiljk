@@ -1,4 +1,4 @@
 body {
-    background: image("../img/bg_comet_sm_100x100.png"));
-    background-color: aqua;
+    background: url("../img/bg_comet_sm_100x100.png");
+    background-color: #1d3557;
 }
